@@ -8,8 +8,8 @@ ___
 
 # 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄.
 
-             🔮ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ🔮   
-                  👉ʙᴜᴛᴛᴏɴ👈
+-               🔮ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ🔮   
+                    👉ʙᴜᴛᴛᴏɴ👈
 
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/malindunimsara/heroku-v2ray"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
@@ -21,7 +21,7 @@ ___
 
 ✔️ ɢɪᴠᴇ ꜱᴛᴀʀ & ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ.
 
-               🔴 ʜᴏᴡ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ 🔴
+-               🔴 ʜᴏᴡ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ 🔴
          
 <p><a href="https://github.com/malindunimsara/heroku-v2ray"> <img src="https://telegra.ph/file/9f4431e0ae7c8ebd87228.jpg" /></a></p>
 👆𝙲𝙻𝙸𝙲𝙺 𝙾𝙽 𝙵𝙾𝚁𝙺 𝙱𝚄𝚃𝚃𝙾𝙽 𝙰𝙽𝙳 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾👆.
@@ -39,7 +39,7 @@ ___
 🛡️ ɢᴇɴᴇʀᴀᴛᴇ ᴠ2ʀᴀʏ ᴜᴜɪᴅ ᴜꜱɪɴɢ ᴛʜɪꜱ ᴡᴇʙꜱɪᴛᴇ : https://www.uuidgenerator.net
 ___
 
-               💡️ᴘʟᴢ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ💡️
+-               💡️ᴘʟᴢ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ💡️
 ___
 
 🎯 ᴀꜰᴛᴇʀ ᴅᴇᴘʟᴏʏ ᴘʀᴏꜱꜱᴇꜱ, ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ꜰᴏʟʟᴏᴡɪɴɢ ᴅᴇᴛᴀɪʟꜱ ᴛᴏ ʏᴏᴜʀ ᴠ2ʀᴀʏ ꜱᴇᴛᴛɪɴɢꜱ ʟɪᴋᴇ ᴛʜᴀᴛ
@@ -65,10 +65,12 @@ ___
 - ɴᴇᴛᴡᴏʀᴋ : ᴡꜱ 
 ___
 
-### ᴄʀᴇᴅɪᴛꜱ.
+### 𝙲𝚁𝙴𝙳𝙸𝚃𝚂.
 ᴛʜᴀɴᴋᴢ ᴛᴏ:
 - [ᴛᴇᴅᴅʏꜱᴜɴ](https://github.com/teddysun) ꜰᴏʀ ᴍᴀɪɴ ʀᴇᴘᴏ
 - [ɪᴀᴍᴛʀᴀᴢʏ](https://github.com/iamtrazy) ꜰᴏʀ ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴀʙʟᴇ ʀᴇᴘᴏ
 - [ʜᴇꜱʜᴀɴ](https://github.com/heshan2) ꜰᴏʀ ʙᴀꜱɪᴄ ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ
 
-  ☸️🙏𝚆𝙾𝚁𝚂𝙷𝙸𝙿 𝙻𝚘𝚛𝚍 𝙱𝚞𝚍𝚍𝚑𝚊🙏☸️
+# 𝚆𝙾𝚁𝚂𝙷𝙸𝙿.
+
+  ☸️🙏𝚆𝚘𝚛𝚜𝚑𝚒𝚙 𝙻𝚘𝚛𝚍 𝙱𝚞𝚍𝚍𝚑𝚊🙏☸️
