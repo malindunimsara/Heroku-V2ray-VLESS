@@ -1,11 +1,11 @@
 {
     "name": "𝑽2𝑹𝑨𝒀 𝑺𝑬𝑹𝑽𝑬𝑹 𝑰𝑵 𝑯𝑬𝑹𝑶𝑲𝑼",
-    "description": "🄳🄴🄿🄻🄾🅈 🅅2🅁🄰🅈 🅂🄴🅁🅅🄴🅁 🄸🄽 🄷🄴🅁🄾🄺🅄",
+    "description": "🅳🅴🅿🅻🅾🆈 🆅2🆁🅰🆈 🆂🅴🆁🆅🅴🆁 🅸🅽 🅷🅴🆁🅾🅺🆄",
     "logo":"https://telegra.ph/file/4b7fa3a0f900de6727252.jpg",
     "keywords": ["xray","v2ray"],
     "env": {
         "UUID": {
-            "description": "Xray UUID,You can generate new UUID using this website (https://www.uuidgenerator.net/) ",
+            "description": "Xray UUID,You can generate new UUID using this website (https://www.uuidgenerator.net) ",
             "required": true        
         }
     },
