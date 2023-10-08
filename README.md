@@ -23,7 +23,7 @@ ___
 
 -               🔴 𝙷𝙾𝚆 𝚃𝙾 𝙵𝙾𝚁𝙺 𝚃𝙷𝙸𝚂 𝚁𝙴𝙿𝙾 🔴
          
-<p><a href="https://github.com/malindunimsara/heroku-v2ray"> <img src="https://telegra.ph/file/9f4431e0ae7c8ebd87228.jpg" /></a></p>
+<p><a href="https://github.com/malindunimsara/heroku-v2ray/fork"> <img src="https://telegra.ph/file/9f4431e0ae7c8ebd87228.jpg" /></a></p>
 
 👆𝙲𝙻𝙸𝙲𝙺 𝙾𝙽 𝙵𝙾𝚁𝙺 𝙱𝚄𝚃𝚃𝙾𝙽 𝙰𝙽𝙳 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾👆.
 
