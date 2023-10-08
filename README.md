@@ -31,7 +31,7 @@ ___
 
 ♨️ᴀꜰᴛᴇʀ ᴛʜᴀᴛ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏ ʟɪɴᴋ ᴜꜱɪɴɢ ᴛʜᴇ ʟɪɴᴋ ᴛᴇᴍᴘʟᴀᴛᴇ ʙᴇʟᴏᴡ. 👇😁
 
-🏷️ʟɪɴᴋ ᴛᴇᴍᴘʟᴀᴛᴇ:  https://dashboard.heroku.com/new?template=https://github.com/<<𝙰𝙳𝙳 𝚈𝙾𝚄𝚁 𝙶𝙸𝚃𝙷𝚄𝙱 𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴>>/heroku-v2ray
+🏷️ʟɪɴᴋ ᴛᴇᴍᴘʟᴀᴛᴇ:  https://dashboard.heroku.com/new?template=https://github.com/<<𝙰𝙳𝙳 𝚈𝙾𝚄𝚁 𝙶𝙸𝚃𝙷𝚄𝙱 𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴>>/Heroku-V2ray-VLESS
 
 <<𝙰𝙳𝙳 𝚈𝙾𝚄𝚁 𝙶𝙸𝚃𝙷𝚄𝙱 𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴>> ᴛᴏ ʀᴇᴘʟᴀᴄᴇ ʏᴏᴜʀ ɢɪᴛʜᴜʙ ᴜꜱᴇʀɴᴀᴍᴇ ʟɪᴋᴇ ᴛʜᴀᴛ - malindunimsara
 
